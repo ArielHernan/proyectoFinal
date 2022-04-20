@@ -24,4 +24,6 @@ ninguna o muchas reservas
 ![esquemaModeloER](https://user-images.githubusercontent.com/72375204/161590306-85cbb4d1-8e66-4268-909c-e0b0565a77da.png)
 
 # MOCKUP
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F1xVG8hNWEBvW6hhTkIIkFV%2FFree-Clay-Mockups-(Community)%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+Se puede ver el mock up en teléfono móvil en el siguiente link:
+
+https://www.figma.com/file/1xVG8hNWEBvW6hhTkIIkFV/Free-Clay-Mockups-(Community)?node-id=0%3A1
