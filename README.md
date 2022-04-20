@@ -21,6 +21,9 @@ tener obligatoriamente un usuario y sólo uno.
 Una reserva puede tener una o muchas mesas y una mesa puede tener
 ninguna o muchas reservas
 
+![image](https://user-images.githubusercontent.com/72375204/164253076-69ce8b96-3db4-4651-a27c-edf863b7070d.png)
+
+
 ![esquemaModeloER](https://user-images.githubusercontent.com/72375204/161590306-85cbb4d1-8e66-4268-909c-e0b0565a77da.png)
 
 # MOCKUP
