@@ -26,6 +26,45 @@ ninguna o muchas reservas
 
 ![esquemaModeloER](https://user-images.githubusercontent.com/72375204/161590306-85cbb4d1-8e66-4268-909c-e0b0565a77da.png)
 
+LA programación de la base de datos, todavía pendiente de testear sería algo así:
+CREATE TABLE usuario
+(
+  nombreUsuario VARCHAR(100) NOT NULL,
+  Telefono VARCHAR(15) NOT NULL,
+  password VARCHAR(15) NOT NULL,
+  email VARCHAR(100) NOT NULL,
+  PRIMARY KEY (email)
+);
+
+CREATE TABLE mesas
+(
+  numero_mesa INT NOT NULL,
+  num_comensales INT NOT NULL,
+  PRIMARY KEY (numero_mesa)
+);
+
+CREATE TABLE reserva
+(
+  num_reserva INT NOT NULL AUTO_INCREMENT,
+  hora_reserva DATE NOT NULL,
+  hora_fin_reserva DATE NOT NULL,
+  numero_personas INT NOT NULL,
+  email VARCHAR(100) NOT NULL,
+  numero_mesa INT NOT NULL,
+  PRIMARY KEY (num_reserva),
+  FOREIGN KEY (email) REFERENCES usuario(email)
+);
+
+CREATE TABLE relationship
+(
+  num_reserva INT NOT NULL,
+  numero_mesa INT NOT NULL,
+  PRIMARY KEY (num_reserva, numero_mesa),
+  FOREIGN KEY (num_reserva) REFERENCES reserva(num_reserva),
+  FOREIGN KEY (numero_mesa) REFERENCES mesas(numero_mesa)
+);
+
+
 # MOCKUP
 Se puede ver el mock up en teléfono móvil en el siguiente link:
 
