@@ -27,6 +27,8 @@ ninguna o muchas reservas
 ![esquemaModeloER](https://user-images.githubusercontent.com/72375204/161590306-85cbb4d1-8e66-4268-909c-e0b0565a77da.png)
 
 LA programación de la base de datos, todavía pendiente de testear sería algo así:
+
+
 CREATE TABLE usuario
 (
   nombreUsuario VARCHAR(100) NOT NULL,
