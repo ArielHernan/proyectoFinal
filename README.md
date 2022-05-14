@@ -29,7 +29,6 @@ para facilitar la programación y conducir la aplicación por el camino correcto
 
 -- --------------------------------------------------------
 
---
 -- Estructura de tabla para la tabla `failed_jobs`
 --
 
