@@ -41,9 +41,9 @@ Par darse de alta como **usuario** lo único que tienes que hacer es rellenar lo
 |TAILWIND | LARAVEL 8  |
 |..     |   MYSQL |
 
->En el backend usaré PHP con el framework Laravel8.
->En el Front End usaré tailwind y css.
->Gestor de Base de datos será Mysql.
+- En el backend usaré PHP con el framework Laravel8.
+- En el Front End usaré tailwind y css.
+-Gestor de Base de datos será Mysql.
 
 
 # MOCKUP
