@@ -32,6 +32,25 @@ Para darse de alta como **administrador** lo único que hay que hacer es rellena
 
 Par darse de alta como **usuario** lo único que tienes que hacer es rellenar los datos del formulario de alta y una vez completado accedes al panel de reservas, donde mirar las reservas que has realizado (anular, modificar) o realizar reserva nueva.
 
+
+# TECNOLOGÍAS A USAR:
+
+| Front-end | Back-end |
+| ------------- | ------------- |
+|CSS  | PHP  |
+|TAILWIND | LARAVEL 8  |
+|..     |   MYSQL |
+
+> En el backend usaré PHP con el framework Laravel8.
+> En el Front End usaré tailwind y css.
+> Gestor de Base de datos será Mysql.
+
+
+# MOCKUP
+Se puede ver el mock up en teléfono móvil en el siguiente link:
+
+https://www.figma.com/file/1xVG8hNWEBvW6hhTkIIkFV/Free-Clay-Mockups-(Community)?node-id=0%3A1
+
 # Modelado de la base de datos:
 El diseño del modelo E/R consta de 3 tablas, una de USUARIO otra de
 RESERVAS y una última de MESA.
@@ -339,23 +358,3 @@ COMMIT;
 40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 
 
-# TECNOLOGÍAS A USAR:
-
-| Front-end | Back-end |
-| ------------- | ------------- |
-|CSS  | PHP  |
-|TAILWIND | LARAVEL 8  |
-|..     |   MYSQL |
-
-En el backend usaré PHP con el framework Laravel8
-En el Front End usaré tailwind o bootstrap Y css
-Gestor de Base de datos será Mysql
-
-
-
-![image](https://user-images.githubusercontent.com/72375204/174285174-45fa81e1-5f7b-47ff-8a8e-4bffada7507f.png)
-
-# MOCKUP
-Se puede ver el mock up en teléfono móvil en el siguiente link:
-
-https://www.figma.com/file/1xVG8hNWEBvW6hhTkIIkFV/Free-Clay-Mockups-(Community)?node-id=0%3A1
