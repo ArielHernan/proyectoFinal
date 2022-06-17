@@ -54,9 +54,9 @@ Se puede ver el mock up en teléfono móvil en el siguiente link:
 https://www.figma.com/file/1xVG8hNWEBvW6hhTkIIkFV/Free-Clay-Mockups-(Community)?node-id=0%3A1
 
 # Modelado de la base de datos:
-El diseño del modelo E/R consta de 3 tablas, una de USUARIO otra de
-RESERVAS y una última de MESA.
-La relación sería:
+- El diseño del modelo E/R consta de 3 tablas, - una de USUARIO  - otra de
+RESERVAS - y una última de MESA.
+- La relación sería:
 Un usuario puede tener cero o muchas reservas, pero una reserva tiene que
 tener obligatoriamente un usuario y sólo uno.
 Una reserva puede tener una o muchas mesas y una mesa puede tener
