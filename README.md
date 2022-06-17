@@ -21,10 +21,12 @@ Una vez que aterrizamos en la Landing page, tendremos 2 opciones
 -> **Logarse**
 -> **Darse de alta** 
 
-**Logarse**: Hay un botón donde puedes reservar mesa, al pinchar, puedes acceder a tu panel de reservas donde podrás ver las reservas realizadas, anular tus reservas, modificar tus reservas o anular tus reservas.
+**Logarse**: Hay un botón donde puedes reservar mesa, al pinchar, accedes al formulario de login una vez comprobado tu usuario y contraseña puedes acceder a tu panel de reservas donde podrás ver las reservas realizadas, anular tus reservas, modificar tus reservas o anular tus reservas.
 
-**Darse de alta**: si no tienes cuenta puedes darte de alta fácilmente, esto se haría pinchando en el botón "darse de alta" aquí tienes 2 opciones, darse de alta como usuario o como administrador.
-Para darse de alta como administrador lo único que hay que hacer es rellenar la contraseña previamente establecida y elegir la contraseña propia(no tienen que ser la misma) y al rellenar la contraseña preestablecida, entrarás en el panel de administración donde además de tener todas las opciones de un usuario normal tendrás las opciones de administrador que es la de gestionar reservas, es decir, se ven todas las reservas realizadas y además se pueden aceptar , rechazar o borrar las reservas.
+**Darse de alta**: si no tienes cuenta puedes darte de alta fácilmente, esto se haría pinchando en el botón "darse de alta" aquí tienes 2 opciones, **darse de alta como usuario o como administrador**.
+Para darse de alta como **administrador** lo único que hay que hacer es rellenar la contraseña previamente establecida y elegir la contraseña propia(no tienen que ser la misma) y al rellenar la contraseña preestablecida, entrarás en el panel de administración donde además de tener todas las opciones de un usuario normal tendrás las opciones de administrador que es la de gestionar reservas, es decir, se ven todas las reservas realizadas y además se pueden aceptar , rechazar o borrar las reservas.
+
+Par darse de alta como **usuario** lo único que tienes que hacer es rellenar los datos del formulario de alta y una vez completado accedes al panel de reservas, donde mirar las reservas que has realizado (anular, modificar) o realizar reserva nueva.
 
 # MODELADO FINAL DE LA BASE DE DATOS:
 
