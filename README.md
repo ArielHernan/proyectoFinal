@@ -32,6 +32,14 @@ Par darse de alta como **usuario** lo único que tienes que hacer es rellenar lo
 
 Este sería el modelado final de la base de datos, una vez hechas las migraciones y trabajado con Laravel:
 
+
+
+![image](https://user-images.githubusercontent.com/72375204/168426260-9df76ceb-a94b-492e-b91d-706a77a93726.png)
+
+# sql FINAL base de datos
+Una vez empezado a relizar la base de datos con las migraciones, y programar la aplicación he tenido que poner y quitar algunos campos 
+para facilitar la programación y conducir la aplicación por el camino correcto hacia una Version Mínima Funcional, ya que es el objetivo real que puedo conseguir.
+
 phpMyAdmin SQL Dump
 version 5.1.1
 https://www.phpmyadmin.net/
@@ -316,12 +324,6 @@ COMMIT;
 40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
-
-![image](https://user-images.githubusercontent.com/72375204/168426260-9df76ceb-a94b-492e-b91d-706a77a93726.png)
-
-# sql FINAL base de datos
-Una vez empezado a relizar la base de datos con las migraciones, y programar la aplicación he tenido que poner y quitar algunos campos 
-para facilitar la programación y conducir la aplicación por el camino correcto hacia una Version Mínima Funcional, ya que es el objetivo real que puedo conseguir.
 
 
 # DESCRIPCIÓN DE LA APLICACIÓN:
