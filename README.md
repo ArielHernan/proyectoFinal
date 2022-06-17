@@ -2,6 +2,10 @@
 
 https://github.com/ArielHernan/reservas
 
+# DESCRIPCIÓN DE LA APLICACIÓN:
+
+Se trata de una simple aplicación de reserva para un restaurante, 
+
 # DESPLIEGUE
 La aplicación va a tener un despliegue en un hosting de pago, en principio estaba programado en hostinger pero al final se realizará en https://mars.ignitionserver.net:2083/ , un hosting muy económico que he encontrado 
 El dominio es:
@@ -28,6 +32,15 @@ Para darse de alta como **administrador** lo único que hay que hacer es rellena
 
 Par darse de alta como **usuario** lo único que tienes que hacer es rellenar los datos del formulario de alta y una vez completado accedes al panel de reservas, donde mirar las reservas que has realizado (anular, modificar) o realizar reserva nueva.
 
+# Modelado de la base de datos:
+El diseño del modelo E/R consta de 3 tablas, una de USUARIO otra de
+RESERVAS y una última de MESA.
+La relación sería:
+Un usuario puede tener cero o muchas reservas, pero una reserva tiene que
+tener obligatoriamente un usuario y sólo uno.
+Una reserva puede tener una o muchas mesas y una mesa puede tener
+ninguna o muchas reservas
+
 # MODELADO FINAL DE LA BASE DE DATOS:
 
 Este sería el modelado final de la base de datos, una vez hechas las migraciones y trabajado con Laravel:
@@ -36,7 +49,7 @@ Este sería el modelado final de la base de datos, una vez hechas las migracione
 
 ![image](https://user-images.githubusercontent.com/72375204/168426260-9df76ceb-a94b-492e-b91d-706a77a93726.png)
 
-# sql FINAL base de datos
+# SQL FINAL base de datos
 Una vez empezado a relizar la base de datos con las migraciones, y programar la aplicación he tenido que poner y quitar algunos campos 
 para facilitar la programación y conducir la aplicación por el camino correcto hacia una Version Mínima Funcional, ya que es el objetivo real que puedo conseguir.
 
@@ -326,25 +339,19 @@ COMMIT;
 40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 
 
-# DESCRIPCIÓN DE LA APLICACIÓN:
-
-Se trata de una simple aplicación de reserva para un restaurante, 
-
-
-
 # TECNOLOGÍAS A USAR:
+
+| Front-end | Back-end |
+| ------------- | ------------- |
+|CSS  | PHP  |
+|TAILWIND | LARAVEL 8  |
+          | MYSQL |
+
 En el backend usaré PHP con el framework Laravel8
 En el Front End usaré tailwind o bootstrap Y css
 Gestor de Base de datos será Mysql
 
-# Modelado de la base de datos:
-El diseño del modelo E/R consta de 3 tablas, una de USUARIO otra de
-RESERVAS y una última de MESA.
-La relación sería:
-Un usuario puede tener cero o muchas reservas, pero una reserva tiene que
-tener obligatoriamente un usuario y sólo uno.
-Una reserva puede tener una o muchas mesas y una mesa puede tener
-ninguna o muchas reservas
+
 
 ![image](https://user-images.githubusercontent.com/72375204/174285174-45fa81e1-5f7b-47ff-8a8e-4bffada7507f.png)
 
