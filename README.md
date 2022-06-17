@@ -18,8 +18,8 @@ https://youtu.be/u3Sq216W0Lo
 
 ## Aterrizaje en landing page
 Una vez que aterrizamos en la Landing page, tendremos 2 opciones
--> ** Logarse
--> ** Darse de alta 
+-> **Logarse**
+-> **Darse de alta** 
 
 **Logarse**: Hay un botón donde puedes reservar mesa, al pinchar, puedes acceder a tu panel de reservas donde podrás ver las reservas realizadas, anular tus reservas, modificar tus reservas o anular tus reservas.
 
