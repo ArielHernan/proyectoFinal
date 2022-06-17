@@ -345,7 +345,7 @@ COMMIT;
 | ------------- | ------------- |
 |CSS  | PHP  |
 |TAILWIND | LARAVEL 8  |
-|..     |   |MYSQL |
+|..     |   MYSQL |
 
 En el backend usaré PHP con el framework Laravel8
 En el Front End usaré tailwind o bootstrap Y css
