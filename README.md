@@ -2,7 +2,7 @@
  ## El código de la aplicación se sencuentra en el siguiente repositorio:
 https://github.com/ArielHernan/reservas
 
-# APLICACIÓN DESPLEGADA :
+# APLICACIÓN DESPLEGADA 20/06/2022 :
 http://proyectodaw.es/
 
 # DESCRIPCIÓN DE LA APLICACIÓN:
