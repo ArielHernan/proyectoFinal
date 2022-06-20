@@ -2,6 +2,9 @@
  ## El código de la aplicación se sencuentra en el siguiente repositorio:
 https://github.com/ArielHernan/reservas
 
+# APLICACIÓN DESPLEGADA :
+http://proyectodaw.es/
+
 # DESCRIPCIÓN DE LA APLICACIÓN:
 
 Se trata de una simple aplicación de reserva para un restaurante, 
@@ -9,14 +12,14 @@ Se trata de una simple aplicación de reserva para un restaurante,
 # DESPLIEGUE
 La aplicación va a tener un despliegue en un hosting de pago, en principio estaba programado en hostinger pero al final se realizará en https://mars.ignitionserver.net:2083/ , un hosting muy económico que he encontrado 
 El dominio es:
-(http://proyectodaw.es
+(http://proyectodaw.es)
 El hosting es de la empresa:
 (https://mars.ignitionserver.net:2083/ )
 
 # CHECKPOINT
 He colgado el video de lo que llevo hecho en la siguiente dirección de youtube:
-
 https://youtu.be/u3Sq216W0Lo
+
 
 # FUNCIONAMMIENTO Y FUNCIONES PARA EL USUARIO
 
