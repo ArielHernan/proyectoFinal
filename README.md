@@ -18,7 +18,7 @@ El hosting es de la empresa:
 
 # CUMPLIMIENTO DE ESPECIFICACIONES
  **CSS** :
-- Creación de Landing page, animaciòn del color de fondo a través de css a código, creación en svg y presentación en todas las páginas del logo, inserción de video en el área de creación de reserva y background video en el área de modificación de la reserva.              **PHP** :
+- Creación de Landing page, animaciòn del color de fondo a través de css a código, creación en svg y presentación en todas las páginas del logo, inserción de video en el área de creación de reserva y background video en el área de modificación de la reserva.                                                                      **PHP** :
 - Realización de la página entera en el framework aprendido en el curso: LARAVEL, 
 - Utilización de Tailwind css para los colores de la web, formularios, tablas.
 - **javascript**
