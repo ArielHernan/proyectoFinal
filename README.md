@@ -26,7 +26,10 @@ Una vez que aterrizamos en la Landing page, tendremos 2 opciones
 -> **Darse de alta** 
 
 ### Logarse:
-Hay un botón donde puedes reservar mesa, al pinchar, accedes al formulario de login una vez comprobado tu usuario y contraseña puedes acceder a tu panel de reservas donde podrás ver las reservas realizadas, anular tus reservas, modificar tus reservas o anular tus reservas.
+#### Logarse como usuario:
+Hay un botón donde puedes reservar mesa, al pinchar, accedes al formulario de login una vez comprobado tu usuario y contraseña puedes acceder a tu panel de reservas donde podrás ver las reservas realizadas, crear una reserva, modificar una reserva o anular una reserva.
+#### Logarse como administrtador:
+Las mismas funciones que el usuario normal,ya que el propietario del negocio puede hacer sus reservas como un usuario más pero además tiene una opción en el panel de reservas que se permite acceder a otra área, la de Gestión de reservas donde ver todas las reservas y desde ahí podrá confirmar, rechazar o borrar una reserva.
 
 ### Darse de alta: 
 - Si no tienes cuenta puedes darte de alta fácilmente, esto se haría pinchando en el botón "darse de alta" aquí tienes 2 opciones,
