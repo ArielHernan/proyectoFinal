@@ -1,5 +1,5 @@
 # RESERVAS, PROYECTO FIN DE CICLO
-
+ ## El código de la aplicación se sencuentra en el siguiente repositorio:
 https://github.com/ArielHernan/reservas
 
 # DESCRIPCIÓN DE LA APLICACIÓN:
