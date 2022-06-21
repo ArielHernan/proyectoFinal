@@ -5,6 +5,9 @@ https://github.com/ArielHernan/reservas
 # APLICACIÓN DESPLEGADA 20/06/2022 :
 http://proyectodaw.es/
 
+# VIDEO TUTORIAL FUNCIONAMIEMTPO DE LA APLICACIÓN
+https://www.youtube.com/watch?v=1zJHfOmq2qA
+
 # DESCRIPCIÓN DE LA APLICACIÓN:
 
 Se trata de una simple aplicación de reserva para un restaurante, 
