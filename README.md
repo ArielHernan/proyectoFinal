@@ -32,7 +32,7 @@ He colgado el video de lo que llevo hecho en la siguiente dirección de youtube:
 https://youtu.be/u3Sq216W0Lo
 
 
-# FUNCIONAMMIENTO Y FUNCIONES PARA EL USUARIO
+# FUNCIONAMIENTO Y FUNCIONES PARA EL USUARIO
 
 ## Aterrizaje en landing page
 Una vez que aterrizamos en la Landing page, tendremos 2 opciones
