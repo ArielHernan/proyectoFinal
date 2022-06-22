@@ -5,7 +5,7 @@ https://github.com/ArielHernan/reservas
 # APLICACIÓN DESPLEGADA 20/06/2022 :
 http://proyectodaw.es/
 
-# VIDEO TUTORIAL FUNCIONAMIEMTPO DE LA APLICACIÓN
+# VIDEO TUTORIAL FUNCIONAMIENTO DE LA APLICACIÓN
 https://www.youtube.com/watch?v=1zJHfOmq2qA
 
 # DESCRIPCIÓN DE LA APLICACIÓN:
