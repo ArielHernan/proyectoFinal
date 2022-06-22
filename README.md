@@ -95,7 +95,7 @@ Este sería el modelado final de la base de datos, una vez hechas las migracione
 
 ![image](https://user-images.githubusercontent.com/72375204/168426260-9df76ceb-a94b-492e-b91d-706a77a93726.png)
 
-# SQL FINAL base de datos
+# SQL FINAL BBDD
 Una vez empezado a relizar la base de datos con las migraciones, y programar la aplicación he tenido que poner y quitar algunos campos 
 para facilitar la programación y conducir la aplicación por el camino correcto hacia una Version Mínima Funcional, ya que es el objetivo real que puedo conseguir.
 
